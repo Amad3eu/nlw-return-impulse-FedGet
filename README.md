@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/Capa.png"/>
+    <img alt="Git Explorer" src="Capa.png" height="450px"/>
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 
 
-## 🚀 Projeto
+## 🚀 Project
 
 Um Component Widget para feedback que pode ser utilizado em qualquer site.
 
@@ -21,7 +21,4 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - React native
 - Expo
 - ESLint + Prettier + EditorConfig;
-
-## 🚀 **Em constante evolução...**
-
 ---
